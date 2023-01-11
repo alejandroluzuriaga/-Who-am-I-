@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alejandroluzuriaga . I'm a Computer Science and Enginnering student in University Rey Juan Carlos of Madrid. 
 - 💻 I've worked with some programming languages like: Assembler x86, TurboPascal, C, Java (OOP), and JavaScript/HTML/CSS.
 - 👀 I’m mainly interested in web development, data structures, databases, and algorithm development.
-- 🌱 I’m currently learning JavaScript, HTML and CSS, and still working on some projects in Java and SQL.
+- 🌱 I’m currently learning React & JavaScript, HTML and CSS, and still working on some projects in Java and SQL.
 - 📫 How to reach me: EMAIL => luzuriagalejandro@gmail.com
 
 <!---
