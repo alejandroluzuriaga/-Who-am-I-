@@ -99,7 +99,7 @@ Spanish (Native) • English (C1) • German (A2)
 ## 📫 How to reach me
 
 📧 luzuriagalejandro@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/alejandro-gonz%C3%A1lez-luzuriagaa404501a6/  
+💼 LinkedIn: https://www.linkedin.com/in/alejandro-gonz%C3%A1lez-luzuriaga-a404501a6/
 🐙 GitHub: https://github.com/alejandroluzuriaga
 
 ---
